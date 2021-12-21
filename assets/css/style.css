@@ -1,1 +1,67 @@
-
+body {
+  background-color: #fff;
+}
+#gambar {
+  width: 100%;
+  border: 1px solid #FFA900;
+  border-radius: 4px;
+}
+#ganjil {
+  font-family: Sans-Serif;
+  font-size: 15px;
+  color: #000;
+  background-color: #fff;
+  padding: 5px 5px;
+}
+#genap {
+  font-family: Sans-Serif;
+  font-size: 15px;
+  color: #000;
+  background-color: #B4B4B4;
+  padding: 5px 5px;
+}
+#versi {
+  transition: 1s all;
+  text-decoration: none;
+}
+.dwn {
+  font-family: Sans-Serif;
+  font-size: 25px;
+  color: #fff;
+  padding: 7px 30px;
+  background-color: #00FFB3;
+  border: 1px solid #B4B4B4;
+  border-radius: 4px;
+  text-decoration: none;
+  text-align: center;
+  transition: 0.5s all;
+}
+.dwn:hover {
+  font-size: 21px;
+  box-shadow: 4px 4px 4px #A2A2A2;
+  color: #fff;
+}
+#config, #about, #comment {
+  padding-top: 5rem;
+}
+.bawah-3 {
+  padding-bottom: 3rem;
+}
+#judul {
+  font-family: Arial;
+  font-size: 20px;
+}
+#isi {
+  font-size: 15px;
+  text-align: justify;
+  font-family: Sans-Serif;
+  padding: 5px;
+}
+.bg-abuabu {
+  background-color: #e8e8e8;
+}
+#slash {
+  font-size: 40px;
+  position: relative;
+  padding: 5px;
+}
