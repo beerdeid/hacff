@@ -1,6 +1,6 @@
 <?php
   // Versi FreeFire
-  $versi = "68.8";
+  $versi = "68.10";
   $versiff = "1.".$versi;
   $versiffmax = "2.".$versi;
 
